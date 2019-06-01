@@ -17,7 +17,7 @@ Android Studio
 
 Run the project within Android Studio onto an emulator or device.
 
-What could be done with more time?
+### What could be done with more time?
 
 1. I would have added some error handling.
 2. I would have added some tests.
