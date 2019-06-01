@@ -21,5 +21,5 @@ Run the project within Android Studio onto an emulator or device.
 
 1. I would have added some error handling.
 2. I would have added some tests.
-3. Would have displayed more content and make the UI look nicer.
+3. I would have displayed more content and make the UI look nicer.
 
