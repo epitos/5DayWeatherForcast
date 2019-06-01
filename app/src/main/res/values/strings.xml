@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">5 Day Weather Forecast</string>
+    <string name="title">Weather Forecast</string>
+    <string name="humidity_title">Humidity: </string>
+    <string name="temp_title">Temperature: </string>
+    <string name="date_time_title">Date/Time: </string>
+    <string name="loading_forecast_message">Loading Weather Forecast for London...</string>
+</resources>
